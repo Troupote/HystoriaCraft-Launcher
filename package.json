@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "HystoriaLauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "HystoriaLauncher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "author": "Daniel Scalzi et Troupote",
+  "license": "Google defender network Enterprise",
+  "homepage": "https://github.com/Troupote/HystoriaCraft-Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Troupote/HystoriaCraft-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Troupote/HystoriaLauncher.git"
   }
 }

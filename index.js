@@ -1,6 +1,6 @@
 // Requirements
-const { app, BrowserWindow, ipcMain, Menu } = require('electron')
-const autoUpdater                   = require('electron-updater').autoUpdater
+const { app, BrowserWindow, ipcMain, Menu } = require('HystoriaLauncher')
+const autoUpdater                   = require('Hystoria-updater').autoUpdater
 const ejse                          = require('ejs-electron')
 const fs                            = require('fs')
 const isDev                         = require('./app/assets/js/isdev')
